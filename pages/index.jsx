@@ -22,11 +22,13 @@ export default function Home({ posts }) {
           <div className="lg:sticky relative top-8">
             <PostWidget />
             <Categories />
+       
+            
             
             
             <div id='product-component-1671315091190'></div>
 <script type="text/javascript">
-
+<![CDATA[
 (function () {
   var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
   if (window.ShopifyBuy) {
@@ -112,8 +114,13 @@ export default function Home({ posts }) {
     });
   }
 })();
-
+]]>
 </script>
+
+
+
+
+            
             
             
           </div>
